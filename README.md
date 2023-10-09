@@ -8,12 +8,12 @@
 </div>
 
 ## Tecnologias utilizadas
-
 - HTML
 - CSS
 - JavaScript
 
 ## Objetivo
-
 O objetivo do "Sorteador de Números" é oferecer uma ferramenta simples e eficaz para realizar sorteios de números, seja para jogos,rifas ou qualquer outra situação que exija aleatoriedade controlada.
 O projeto foi desenvolvido visando a facilidade de uso e a experiência agradável do usuário.
+
+🔗 [Clique aqui para acessar a aplicação](https://ericleirosario.github.io/number-drawer/)
